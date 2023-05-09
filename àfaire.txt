@@ -1,0 +1,8 @@
+Site exemple : https://help.abstract.com/hc/en-us
+
+- comportement du bouton "search" de la navbar en mobile
+- focus border champ de recherche
+- comportement du champ de recherche
+- taille des textes
+- logo footer
+- afficher pour le bouton help sticky : help + logo en desktop, juste le logo en mobile
